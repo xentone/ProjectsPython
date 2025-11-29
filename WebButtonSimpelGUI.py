@@ -1,4 +1,4 @@
-# Dont forget to import icon path
+# Don't forget to import icon path
 import webbrowser as wb
 import tkinter as tk
 from PIL import Image, ImageTk
