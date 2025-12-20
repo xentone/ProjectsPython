@@ -1,4 +1,4 @@
-# import the necessary packages
+# Import the necessary packages
 from scipy.spatial import distance as dist
 
 from imutils.video import VideoStream
