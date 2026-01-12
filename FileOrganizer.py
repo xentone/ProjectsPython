@@ -1,7 +1,7 @@
 import argparse
 import os
 import logging
-import shutil  # For moving files
+import shutil  # for moving files
 
 
 def main():
