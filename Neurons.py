@@ -27,7 +27,7 @@ class Direction(Enum):
 
 
 class Empty(str):
-    """String subclass to return character representing empty space."""
+    """string subclass to return character representing empty space."""
 
     CHAR = "  "
 
