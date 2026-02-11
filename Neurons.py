@@ -18,7 +18,7 @@ def clear() -> None:
 
 
 class Direction(Enum):
-    """Mapping of direction to int."""
+    """mapping of direction to int."""
 
     UP = 0
     RIGHT = 1
