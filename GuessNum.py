@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 import random
-import sys  # Import the sys module for exiting the application
+import sys  # import the sys module for exiting the application
 
 # Define upper and lower bounds for the game
 lower_limit = 1
