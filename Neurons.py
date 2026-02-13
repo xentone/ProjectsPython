@@ -10,7 +10,7 @@ TICKS_PER_SECOND = 60
 
 
 def clear() -> None:
-    """Clear the terminal based on OS."""
+    """clear the terminal based on OS."""
     if sys.platform == "nt":
         os.system("cls")
     else:
