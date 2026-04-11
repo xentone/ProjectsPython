@@ -15,7 +15,7 @@ def main():
             if filename.lower().endswith(
                 (".png", ".jpg", ".jpeg", ".gif", ".bmp", ".pbm", ".pnm")
             ):
-                # If images folder doesn't exist then create new folder
+                # if images folder doesn't exist then create new folder
                 if not os.path.exists("images"):
                     os.makedirs("images")
                 shutil.move(absname, "images")
