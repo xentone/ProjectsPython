@@ -11,7 +11,7 @@ def main():
         )
         for filename in os.listdir(dir_path):
             absname = os.path.join(dir_path, filename)
-            # Check if files are images and you can add more extensions
+            # check if files are images and you can add more extensions
             if filename.lower().endswith(
                 (".png", ".jpg", ".jpeg", ".gif", ".bmp", ".pbm", ".pnm")
             ):
