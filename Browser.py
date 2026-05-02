@@ -4,7 +4,7 @@ from PyQt5.QtWebEngineWidgets import *
 import sys
 
 
-# Define the main window class
+# define the main window class
 class MainWindow(QMainWindow):
     def __init__(self):
         super(MainWindow, self).__init__()
