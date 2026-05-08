@@ -1,4 +1,4 @@
-# Importing all the necessary modules
+# importing all the necessary modules
 from tkinter import *
 from tkinter import filedialog
 import pygame.mixer as mixer  # pip install pygame
