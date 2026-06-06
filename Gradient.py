@@ -1,4 +1,4 @@
-# a pencil shaded image representation with better display of edges
+# A pencil shaded image representation with better display of edges
 import cv2 as cv
 import numpy as np
 
