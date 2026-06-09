@@ -4,7 +4,7 @@ from tkinter import filedialog
 import pygame.mixer as mixer  # pip install pygame
 import os
 
-# Initializing the root window and pygame.mixer
+# initializing the root window and pygame.mixer
 
 # Initializing the mixer
 mixer.init()
