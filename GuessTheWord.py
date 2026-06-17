@@ -1,6 +1,6 @@
 import random
 
-# List of words for the game
+# list of words for the game
 word_list = [
     "python",
     "java",
