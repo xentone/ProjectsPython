@@ -1,5 +1,5 @@
 """
-instructions
+Instructions
 1. install captcha: pip install captcha
 2. Download fonts and update the path in code
 3. Run the code
