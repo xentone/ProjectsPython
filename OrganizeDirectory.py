@@ -20,7 +20,7 @@ def main():
                     os.makedirs("images")
                 shutil.move(absname, "images")
 
-            # Check if files are music and you can add more extensions
+            # check if files are music and you can add more extensions
             elif filename.lower().endswith(
                 (".wav", ".mp3", ".flac", ".3gp", ".aa", ".aax", ".aiff", ".raw")
             ):
