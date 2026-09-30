@@ -1,7 +1,7 @@
 # import the necessary packages
 import argparse
 
-# import the necessary packages
+# Import the necessary packages
 from scipy.spatial import distance as dist
 from imutils.video import FileVideoStream
 from imutils.video import VideoStream
