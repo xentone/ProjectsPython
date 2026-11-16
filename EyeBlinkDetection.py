@@ -1,4 +1,4 @@
-# Import the necessary packages
+# import the necessary packages
 import argparse
 
 # import the necessary packages
